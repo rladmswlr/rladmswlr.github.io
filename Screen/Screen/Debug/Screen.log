@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\은직\downloads\oop-2019_1\oop-2019_1\screen\screen\main.cpp(17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Screen.vcxproj -> C:\Users\은직\Downloads\OOP-2019_1\OOP-2019_1\Screen\Debug\Screen.exe
